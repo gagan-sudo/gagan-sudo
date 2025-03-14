@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **react,node and gsap**
+- 💬 Ask me about **react**
 
 - 📫 How to reach me **gaganbhangu34484@gmail.com**
 
